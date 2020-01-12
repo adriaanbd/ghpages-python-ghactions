@@ -25,16 +25,16 @@ Datos:
   Lugar: Salón 254 Universidad Interamericana de Panamá - Sede Av. Ricardo J. Alfaro
   Costo: ¡Libre!
 Expositores:
-  - Nombre: José Arnulfo
+  - Nombre: Test User 1
     Foto: staff/arnulfo.jpg
     Actividad: MC
-  - Nombre: Marta Maleyka
+  - Nombre: Test User 2
     Foto: staff/marta.jpg
     Actividad: Blockchains with Python
   - Nombre: Adriaan Beiertz
     Foto: staff/adriaan.jpg
     Actividad: "Reto del mes: Blockchain with Python"
-  - Nombre: Santos Rivera
+  - Nombre: Test User 4
     Foto: speakers/santos.jpg
     Actividad: "Basic Excel Operations with Python"
 Patrocinantes:
